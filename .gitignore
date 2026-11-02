@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+cinematch.db
+.venv/
+.pytest_cache/
+.secret_key

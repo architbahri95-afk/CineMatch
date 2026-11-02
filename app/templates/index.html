@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0c0a13">
+  <title>CineMatch: movies picked for your taste</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23f5a524'/%3E%3Cpath d='M12 9l11 7-11 7z' fill='%231a1203'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="beam" aria-hidden="true"></div>
+
+  <header class="top">
+    <a class="brand" href="/" aria-label="CineMatch home">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="currentColor"/><path d="M12 9l11 7-11 7z" fill="var(--accent-ink)"/></svg>
+      <span>CineMatch</span>
+    </a>
+    <label class="searchbox">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+      <input id="search" type="search" placeholder="Search movies" aria-label="Search movies">
+    </label>
+    <div id="account"></div>
+  </header>
+
+  <main>
+    <nav class="tabs" aria-label="Sections">
+      <button class="tab is-active" data-tab="home">For you</button>
+      <button class="tab" data-tab="browse">Browse</button>
+      <button class="tab" data-tab="mood">Mood</button>
+      <button class="tab" data-tab="similar">Find similar</button>
+      <button class="tab" data-tab="library">My library</button>
+      <button class="tab" data-tab="dashboard" id="dashTab" hidden>Dashboard</button>
+    </nav>
+    <div id="view" aria-live="polite"></div>
+  </main>
+
+  <footer class="foot">
+    CineMatch blends what a film is about with what people like you rated highly.
+    <button class="linkish" id="aboutBtn">How it works</button>
+  </footer>
+
+  <dialog id="detail" aria-label="Movie details"></dialog>
+
+  <dialog id="about" aria-labelledby="aboutTitle"></dialog>
+
+  <dialog id="auth" aria-labelledby="authTitle">
+    <div class="auth">
+      <aside class="auth-art" aria-hidden="true">
+        <svg class="mark" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="currentColor"/><path d="M12 9l11 7-11 7z" fill="var(--accent-ink)"/></svg>
+        <p class="auth-pitch">Rate three films.<br>Get picks that fit.</p>
+        <p class="auth-sub">Your ratings and account are saved, so your recommendations are waiting next time you visit.</p>
+      </aside>
+      <section class="auth-main">
+        <button class="close" id="authClose" aria-label="Close">×</button>
+        <h2 id="authTitle">Welcome to CineMatch</h2>
+        <div class="seg" role="tablist">
+          <button role="tab" id="segLogin" aria-selected="true">Sign in</button>
+          <button role="tab" id="segRegister" aria-selected="false">Create account</button>
+        </div>
+
+        <form id="loginForm" class="form" autocomplete="on">
+          <label>Username or email
+            <input name="identifier" id="liId" autocomplete="username" required>
+          </label>
+          <label>Password
+            <span class="pw"><input name="password" id="liPw" type="password" autocomplete="current-password" required>
+            <button type="button" class="reveal" data-for="liPw">Show</button></span>
+          </label>
+          <label class="check"><input type="checkbox" id="liRemember" checked> Keep me signed in on this device</label>
+          <p class="error" id="liError" role="alert"></p>
+          <button class="primary wide" type="submit">Sign in</button>
+        </form>
+
+        <form id="registerForm" class="form" autocomplete="on" hidden>
+          <label>Username
+            <input name="username" id="rgName" autocomplete="username" minlength="3" maxlength="24" required>
+            <small>3-24 letters, numbers or underscores</small>
+          </label>
+          <label>Email
+            <input name="email" id="rgEmail" type="email" autocomplete="email" required>
+          </label>
+          <label>Password
+            <span class="pw"><input name="password" id="rgPw" type="password" autocomplete="new-password" minlength="8" required>
+            <button type="button" class="reveal" data-for="rgPw">Show</button></span>
+            <span class="meter" aria-hidden="true"><i id="meterBar"></i></span>
+            <small id="meterText">At least 8 characters</small>
+          </label>
+          <label>Confirm password
+            <input id="rgPw2" type="password" autocomplete="new-password" required>
+          </label>
+          <fieldset class="picker"><legend>Genres you like <small>(optional: helps from day one)</small></legend>
+            <div id="rgGenres" class="chips"></div>
+          </fieldset>
+          <label class="check"><input type="checkbox" id="rgRemember" checked> Keep me signed in on this device</label>
+          <p class="error" id="rgError" role="alert"></p>
+          <button class="primary wide" type="submit">Create account</button>
+        </form>
+      </section>
+    </div>
+  </dialog>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

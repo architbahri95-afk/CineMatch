@@ -1,0 +1,71 @@
+id,director,actors,language,runtime,tags
+1,Frank Darabont,Tim Robbins|Morgan Freeman|Bob Gunton,English,142,happy_ending|feel_good
+2,Francis Ford Coppola,Marlon Brando|Al Pacino|James Caan,English,175,dark|violent
+3,Christopher Nolan,Christian Bale|Heath Ledger|Aaron Eckhart,English,152,dark|violent|bittersweet
+4,Quentin Tarantino,John Travolta|Samuel L. Jackson|Uma Thurman,English,154,dark|violent
+5,Robert Zemeckis,Tom Hanks|Robin Wright|Gary Sinise,English,142,bittersweet|feel_good
+6,Christopher Nolan,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,English,148,mind_bending
+7,Lana Wachowski|Lilly Wachowski,Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss,English,136,mind_bending|violent
+8,Christopher Nolan,Matthew McConaughey|Anne Hathaway|Jessica Chastain,English,169,mind_bending|bittersweet
+9,David Fincher,Brad Pitt|Edward Norton|Helena Bonham Carter,English,139,dark|mind_bending|violent
+10,Martin Scorsese,Ray Liotta|Robert De Niro|Joe Pesci,English,145,dark|violent|true_story
+11,Jonathan Demme,Jodie Foster|Anthony Hopkins|Scott Glenn,English,118,dark|violent
+12,David Fincher,Brad Pitt|Morgan Freeman|Gwyneth Paltrow,English,127,dark|tragic|violent
+13,Ridley Scott,Russell Crowe|Joaquin Phoenix|Connie Nielsen,English,155,bittersweet|violent
+14,James Cameron,Leonardo DiCaprio|Kate Winslet|Billy Zane,English,194,tragic
+15,Steven Spielberg,Sam Neill|Laura Dern|Jeff Goldblum,English,127,happy_ending
+16,George Lucas,Mark Hamill|Harrison Ford|Carrie Fisher,English,121,happy_ending|feel_good|family_friendly
+17,Peter Jackson,Elijah Wood|Ian McKellen|Viggo Mortensen,English,178,bittersweet
+18,Robert Zemeckis,Michael J. Fox|Christopher Lloyd|Lea Thompson,English,116,happy_ending|feel_good|family_friendly
+19,John Lasseter,Tom Hanks|Tim Allen|Don Rickles,English,81,happy_ending|feel_good|family_friendly
+20,Roger Allers|Rob Minkoff,Matthew Broderick|Jeremy Irons|James Earl Jones,English,88,happy_ending|family_friendly
+21,Hayao Miyazaki,Rumi Hiiragi|Miyu Irino|Mari Natsuki,Japanese,125,happy_ending|feel_good|family_friendly
+22,Bong Joon-ho,Song Kang-ho|Lee Sun-kyun|Cho Yeo-jeong,Korean,132,dark|tragic|violent
+23,Damien Chazelle,Miles Teller|J.K. Simmons|Melissa Benoist,English,107,bittersweet
+24,Damien Chazelle,Ryan Gosling|Emma Stone|John Legend,English,128,bittersweet
+25,Wes Anderson,Ralph Fiennes|F. Murray Abraham|Tony Revolori,English,99,bittersweet|feel_good
+26,George Miller,Tom Hardy|Charlize Theron|Nicholas Hoult,English,120,happy_ending|violent
+27,Denis Villeneuve,Ryan Gosling|Harrison Ford|Ana de Armas,English,164,bittersweet|dark
+28,Jordan Peele,Daniel Kaluuya|Allison Williams|Bradley Whitford,English,104,dark|violent|happy_ending
+29,Stanley Kubrick,Jack Nicholson|Shelley Duvall|Danny Lloyd,English,146,dark|tragic|violent
+30,Ridley Scott,Sigourney Weaver|Tom Skerritt|John Hurt,English,117,dark|violent|bittersweet
+31,James Cameron,Arnold Schwarzenegger|Linda Hamilton|Edward Furlong,English,137,violent|bittersweet
+32,Steven Spielberg,Tom Hanks|Matt Damon|Tom Sizemore,English,169,bittersweet|violent
+33,Steven Spielberg,Liam Neeson|Ben Kingsley|Ralph Fiennes,English,195,true_story|tragic
+34,Martin Scorsese,Leonardo DiCaprio|Matt Damon|Jack Nicholson,English,151,dark|violent|tragic
+35,Joel Coen|Ethan Coen,Tommy Lee Jones|Javier Bardem|Josh Brolin,English,122,dark|violent
+36,Paul Thomas Anderson,Daniel Day-Lewis|Paul Dano|Ciaran Hinds,English,158,dark|tragic
+37,Christopher Nolan,Hugh Jackman|Christian Bale|Michael Caine,English,130,dark|mind_bending|tragic
+38,Christopher Nolan,Guy Pearce|Carrie-Anne Moss|Joe Pantoliano,English,113,dark|mind_bending
+39,Michel Gondry,Jim Carrey|Kate Winslet|Kirsten Dunst,English,108,bittersweet|mind_bending
+40,Jean-Pierre Jeunet,Audrey Tautou|Mathieu Kassovitz|Rufus,French,122,happy_ending|feel_good
+41,Rob Reiner,Cary Elwes|Robin Wright|Mandy Patinkin,English,98,happy_ending|feel_good|family_friendly
+42,Harold Ramis,Bill Murray|Andie MacDowell|Chris Elliott,English,101,happy_ending|feel_good
+43,Greg Mottola,Jonah Hill|Michael Cera|Christopher Mintz-Plasse,English,113,happy_ending|feel_good
+44,Todd Phillips,Bradley Cooper|Ed Helms|Zach Galifianakis,English,100,happy_ending|feel_good
+45,Andrew Stanton,Albert Brooks|Ellen DeGeneres|Alexander Gould,English,100,happy_ending|feel_good|family_friendly
+46,Andrew Stanton,Ben Burtt|Elissa Knight|Jeff Garlin,English,98,happy_ending|feel_good|family_friendly
+47,Pete Docter|Bob Peterson,Ed Asner|Jordan Nagai|Christopher Plummer,English,96,happy_ending|feel_good|family_friendly
+48,Lee Unkrich|Adrian Molina,Anthony Gonzalez|Gael Garcia Bernal|Benjamin Bratt,English,105,happy_ending|feel_good|family_friendly
+49,Bob Persichetti|Peter Ramsey|Rodney Rothman,Shameik Moore|Jake Johnson|Hailee Steinfeld,English,117,happy_ending|feel_good|family_friendly
+50,Anthony Russo|Joe Russo,Robert Downey Jr.|Chris Evans|Mark Ruffalo,English,181,bittersweet
+51,Ryan Coogler,Chadwick Boseman|Michael B. Jordan|Lupita Nyong'o,English,134,happy_ending
+52,Todd Phillips,Joaquin Phoenix|Robert De Niro|Zazie Beetz,English,122,dark|violent|tragic
+53,Sam Mendes,George MacKay|Dean-Charles Chapman|Mark Strong,English,119,bittersweet
+54,Christopher Nolan,Fionn Whitehead|Tom Hardy|Mark Rylance,English,106,bittersweet|true_story
+55,David Fincher,Jesse Eisenberg|Andrew Garfield|Justin Timberlake,English,120,bittersweet|true_story
+56,Ron Howard,Russell Crowe|Jennifer Connelly|Ed Harris,English,135,happy_ending|true_story|feel_good
+57,Gabriele Muccino,Will Smith|Jaden Smith|Thandiwe Newton,English,117,happy_ending|true_story|feel_good
+58,Rian Johnson,Daniel Craig|Ana de Armas|Chris Evans,English,130,happy_ending|feel_good
+59,Daniel Kwan|Daniel Scheinert,Michelle Yeoh|Stephanie Hsu|Ke Huy Quan,English,139,happy_ending|feel_good|mind_bending
+60,Christopher Nolan,Cillian Murphy|Emily Blunt|Matt Damon,English,180,dark|true_story
+61,Denis Villeneuve,Timothee Chalamet|Rebecca Ferguson|Oscar Isaac,English,155,violent
+62,Joseph Kosinski,Tom Cruise|Miles Teller|Jennifer Connelly,English,130,happy_ending|feel_good
+63,Greta Gerwig,Margot Robbie|Ryan Gosling|America Ferrera,English,114,happy_ending|feel_good
+64,Nick Cassavetes,Ryan Gosling|Rachel McAdams|James Garner,English,123,bittersweet
+65,Joe Wright,Keira Knightley|Matthew Macfadyen|Donald Sutherland,English,129,happy_ending|feel_good
+66,Michael Curtiz,Humphrey Bogart|Ingrid Bergman|Paul Henreid,English,102,bittersweet
+67,Alfred Hitchcock,Anthony Perkins|Janet Leigh|Vera Miles,English,109,dark|violent
+68,Ari Aster,Toni Collette|Alex Wolff|Milly Shapiro,English,127,dark|tragic|violent
+69,John Krasinski,Emily Blunt|John Krasinski|Millicent Simmonds,English,90,bittersweet
+70,David Fincher,Jake Gyllenhaal|Mark Ruffalo|Robert Downey Jr.,English,157,dark|true_story

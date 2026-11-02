@@ -1,0 +1,71 @@
+id,title,year,genres,keywords,overview
+1,The Shawshank Redemption,1994,Drama,prison|friendship|hope|escape,A banker wrongly jailed for murder befriends a fellow inmate and quietly plans his freedom over two decades.
+2,The Godfather,1972,Crime|Drama,mafia|family|power|betrayal,The aging head of a crime dynasty hands control to his reluctant youngest son.
+3,The Dark Knight,2008,Action|Crime|Thriller,superhero|joker|gotham|chaos,Batman faces an anarchic criminal mastermind who pushes Gotham to its moral limits.
+4,Pulp Fiction,1994,Crime|Thriller,hitmen|nonlinear|boxing|diner,Interlocking stories of gangsters boxers and thieves unfold out of order in Los Angeles.
+5,Forrest Gump,1994,Drama|Romance,history|kindness|running|destiny,A gentle man with a low IQ drifts through decades of American history and love.
+6,Inception,2010,Action|Sci-Fi|Thriller,dreams|heist|subconscious|reality,A thief who steals secrets from dreams is offered a chance to plant an idea instead.
+7,The Matrix,1999,Action|Sci-Fi,simulation|hacker|rebellion|reality,A programmer discovers the world is a simulation and joins a rebellion against its machine rulers.
+8,Interstellar,2014,Adventure|Drama|Sci-Fi,space|wormhole|time|survival,Explorers travel through a wormhole in search of a new home for a dying Earth.
+9,Fight Club,1999,Drama|Thriller,insomnia|underground|identity|rebellion,A sleepless office worker and a soap salesman start an underground fighting ring that spirals out of control.
+10,Goodfellas,1990,Biography|Crime|Drama,mafia|rise and fall|loyalty|new york,A young man rises through the ranks of the mob and watches it all unravel.
+11,The Silence of the Lambs,1991,Crime|Thriller|Horror,serial killer|fbi|psychology|captive,A trainee agent consults an imprisoned cannibal to catch another killer.
+12,Se7en,1995,Crime|Mystery|Thriller,serial killer|detective|sins|rain,Two detectives hunt a killer whose crimes are modeled on the seven deadly sins.
+13,Gladiator,2000,Action|Adventure|Drama,rome|revenge|arena|empire,A betrayed Roman general becomes a gladiator to avenge his murdered family.
+14,Titanic,1997,Drama|Romance,ship|disaster|love|class,A young couple from different classes fall in love aboard a doomed ocean liner.
+15,Jurassic Park,1993,Adventure|Sci-Fi|Thriller,dinosaurs|island|park|genetics,A theme park of cloned dinosaurs descends into chaos when the security systems fail.
+16,Star Wars: A New Hope,1977,Action|Adventure|Sci-Fi,space|rebellion|empire|force,A farm boy joins rebels and a smuggler to destroy a planet-killing battle station.
+17,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy,ring|quest|wizard|middle earth,A hobbit and eight companions set out to destroy a ring of unthinkable power.
+18,Back to the Future,1985,Adventure|Comedy|Sci-Fi,time travel|teenager|delorean|family,A teenager is accidentally sent to 1955 and must make sure his parents fall in love.
+19,Toy Story,1995,Animation|Adventure|Comedy|Family,toys|friendship|rivalry|childhood,A cowboy doll feels threatened when a flashy space ranger toy becomes his owner's favorite.
+20,The Lion King,1994,Animation|Adventure|Drama|Family,lion|kingdom|exile|father and son,A young lion prince flees after his father's death and returns to reclaim his home.
+21,Spirited Away,2001,Animation|Adventure|Fantasy|Family,spirits|bathhouse|coming of age|japan,A girl wanders into a world of spirits and must work in a bathhouse to free her parents.
+22,Parasite,2019,Comedy|Drama|Thriller,class|con|family|south korea,A poor family schemes its way into the lives of a wealthy household with unforeseen consequences.
+23,Whiplash,2014,Drama|Music,jazz|drummer|obsession|mentor,A young drummer is pushed to the edge by a ruthless conservatory instructor.
+24,La La Land,2016,Comedy|Drama|Music|Romance,jazz|dreams|los angeles|musical,A pianist and an actress chase their ambitions while their romance is tested.
+25,The Grand Budapest Hotel,2014,Adventure|Comedy|Crime,hotel|concierge|heist|europe,A legendary concierge and his lobby boy get caught up in the theft of a priceless painting.
+26,Mad Max: Fury Road,2015,Action|Adventure|Sci-Fi,desert|chase|post-apocalyptic|escape,A fugitive warrior and a drifter race across a wasteland in a war rig chased by a tyrant.
+27,Blade Runner 2049,2017,Drama|Mystery|Sci-Fi,replicants|future|detective|ai,A new blade runner uncovers a secret that could throw society into chaos.
+28,Get Out,2017,Horror|Mystery|Thriller,race|suburbs|hypnosis|secret,A young man visiting his girlfriend's family realizes something sinister lies beneath their warmth.
+29,The Shining,1980,Horror|Mystery,hotel|isolation|madness|winter,A caretaker and his family spend the winter at a remote hotel where something malevolent lingers.
+30,Alien,1979,Horror|Sci-Fi,spaceship|creature|survival|crew,A mining crew is stalked by a deadly organism aboard their ship.
+31,Terminator 2: Judgment Day,1991,Action|Sci-Fi,cyborg|future|war|protector,A reprogrammed cyborg protects a boy from a more advanced killing machine.
+32,Saving Private Ryan,1998,Drama|War,world war ii|rescue|soldiers|d-day,A squad of soldiers is sent behind enemy lines to bring one man home.
+33,Schindler's List,1993,Biography|Drama|History,holocaust|war|rescue|factory,A businessman saves over a thousand Jewish workers during the Holocaust.
+34,The Departed,2006,Crime|Drama|Thriller,undercover|mob|police|boston,An undercover cop and a mole inside the police race to expose each other.
+35,No Country for Old Men,2007,Crime|Drama|Thriller,hitman|money|sheriff|texas,A hunter finds drug money and is pursued by a relentless killer.
+36,There Will Be Blood,2007,Drama,oil|ambition|greed|religion,An oilman's ruthless pursuit of wealth consumes everything around him.
+37,The Prestige,2006,Drama|Mystery|Sci-Fi,magicians|rivalry|obsession|illusion,Two rival magicians destroy each other in a quest for the perfect trick.
+38,Memento,2000,Mystery|Thriller,amnesia|revenge|nonlinear|memory,A man with short-term memory loss hunts his wife's killer using notes and tattoos.
+39,Eternal Sunshine of the Spotless Mind,2004,Drama|Romance|Sci-Fi,memory|breakup|love|erasure,A couple undergoes a procedure to erase each other from their memories.
+40,Amelie,2001,Comedy|Romance,paris|kindness|whimsy|love,A shy waitress secretly improves the lives of those around her while searching for love.
+41,The Princess Bride,1987,Adventure|Comedy|Fantasy|Romance,fairy tale|swordfight|true love|quest,A farm boy sets out to rescue his true love from a scheming prince.
+42,Groundhog Day,1993,Comedy|Fantasy|Romance,time loop|weatherman|redemption|small town,A cynical weatherman relives the same day until he learns to change.
+43,Superbad,2007,Comedy,teenagers|friendship|party|high school,Two high school friends try to score alcohol for a party before graduation.
+44,The Hangover,2009,Comedy,bachelor party|las vegas|amnesia|friends,Three friends wake up after a bachelor party with no memory and a missing groom.
+45,Finding Nemo,2003,Animation|Adventure|Comedy|Family,ocean|fish|father and son|journey,An anxious clownfish crosses the ocean to find his lost son.
+46,WALL-E,2008,Animation|Adventure|Family|Sci-Fi,robot|earth|love|environment,A lonely trash-compacting robot follows a probe into space and changes humanity's fate.
+47,Up,2009,Animation|Adventure|Comedy|Family,balloons|old man|adventure|grief,An elderly widower ties balloons to his house and sets off on a journey with a stowaway boy.
+48,Coco,2017,Animation|Adventure|Family|Music,day of the dead|family|music|mexico,A boy who dreams of music enters the land of the dead to uncover his family's secret.
+49,Spider-Man: Into the Spider-Verse,2018,Action|Animation|Adventure,superhero|multiverse|teenager|comic,A teenager from Brooklyn teams up with other Spider-people from alternate dimensions.
+50,Avengers: Endgame,2019,Action|Adventure|Drama|Sci-Fi,superhero|time travel|sacrifice|team,The surviving heroes attempt a last gamble to undo a cosmic catastrophe.
+51,Black Panther,2018,Action|Adventure|Sci-Fi,superhero|africa|kingdom|technology,A new king must defend a hidden high-tech nation from a challenger with a claim to the throne.
+52,Joker,2019,Crime|Drama|Thriller,mental illness|gotham|clown|society,A struggling comedian is pushed by a cruel society toward violence.
+53,1917,2019,Drama|War,world war i|mission|trenches|one shot,Two soldiers race across enemy territory to deliver a message that could save hundreds.
+54,Dunkirk,2017,Action|Drama|History|War,evacuation|world war ii|beach|survival,Soldiers on a beach and civilians at sea are caught up in a desperate evacuation.
+55,The Social Network,2010,Biography|Drama,facebook|startup|betrayal|college,A Harvard student builds a social site and loses friends along the way.
+56,A Beautiful Mind,2001,Biography|Drama|Romance,mathematician|schizophrenia|genius|love,A brilliant mathematician battles schizophrenia while winning a Nobel prize.
+57,The Pursuit of Happyness,2006,Biography|Drama,homeless|father and son|perseverance|stockbroker,A struggling salesman and his young son endure homelessness while he trains for a better career.
+58,Knives Out,2019,Comedy|Crime|Mystery,whodunit|detective|family|inheritance,A detective investigates the death of a wealthy novelist surrounded by his scheming family.
+59,Everything Everywhere All at Once,2022,Action|Adventure|Comedy|Sci-Fi,multiverse|family|laundromat|absurd,A laundromat owner is pulled into a multiverse battle where only she can save everything.
+60,Oppenheimer,2023,Biography|Drama|History,atomic bomb|physicist|world war ii|guilt,The story of the physicist who led the creation of the first atomic weapon and its aftermath.
+61,Dune,2021,Adventure|Drama|Sci-Fi,desert|prophecy|spice|empire,A noble heir takes charge of a desert planet that holds the galaxy's most valuable resource.
+62,Top Gun: Maverick,2022,Action|Drama,pilots|navy|jets|mentor,A veteran test pilot trains young graduates for an impossible mission.
+63,Barbie,2023,Adventure|Comedy|Fantasy,dolls|identity|satire|real world,A doll leaves her perfect world and discovers the complications of the real one.
+64,The Notebook,2004,Drama|Romance,love|summer|letters|memory,A poor young man and a rich girl fall in love and are separated by class and war.
+65,Pride and Prejudice,2005,Drama|Romance,england|class|marriage|wit,A spirited young woman and a proud gentleman misjudge each other in Regency England.
+66,Casablanca,1942,Drama|Romance|War,morocco|exile|love|world war ii,A cynical bar owner must choose between love and helping a resistance leader escape.
+67,Psycho,1960,Horror|Mystery|Thriller,motel|murder|mother|twist,A woman on the run checks into a motel run by a strange young man.
+68,Hereditary,2018,Drama|Horror|Mystery,grief|family|occult|dread,A family unravels after the death of their secretive matriarch.
+69,A Quiet Place,2018,Drama|Horror|Sci-Fi,silence|creatures|family|survival,A family lives in silence to hide from creatures that hunt by sound.
+70,Zodiac,2007,Crime|Drama|Mystery,serial killer|journalist|obsession|san francisco,Journalists and detectives become consumed by the hunt for an unidentified killer.
